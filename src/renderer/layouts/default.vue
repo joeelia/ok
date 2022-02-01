@@ -9,7 +9,7 @@
 // import appHeader from '@/components/header'
 
 export default {
-  name: 'DefaultLayout',
-  //components: { appHeader }
+  name: 'DefaultLayout'
+  // components: { appHeader }
 }
 </script>

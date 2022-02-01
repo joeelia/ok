@@ -19,7 +19,7 @@ module.exports = {
     // StandardJS — The Rules
         'nuxt/no-cjs-in-config': 'off',
         "indent": ["error", 2], // 2 spaces – for indentation
-        "max-len": ["error", { "code": 120}],
+        "max-len": ["error", { "code": 520}],
         "no-console": "off",
         "arrow-parens": ["error", "as-needed"],
         "curly": ["error", "multi-line"],
