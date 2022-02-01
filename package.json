@@ -1,6 +1,6 @@
 {
   "name": "reds-sniper-bott",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Sniperrr",
   "main": "./dist/main/index.js",
   "scripts": {
